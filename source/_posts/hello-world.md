@@ -4,7 +4,8 @@ date: 2019-10-14 11:29:00
 tags: hexo
 categories: hexo入门
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues). 
+大家好，这是我使用HEXO书写的的第一篇文章。
+在开始之前请注意点安装的node版本，不然可能会会出现扩展组件不兼容、index.html文件生成为0kb等一些问题。博主当前使用的是v12.16.2，当然你也可以是使用“n”这个工具做node的版本管理，以方便随时切换node开发，具体使用方法可自行查看[Github](https://github.com/tj/n)
 
 ## Quick Start
 
