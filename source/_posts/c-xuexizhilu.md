@@ -1,7 +1,8 @@
 ---
+uuid: d6c0c438-eb0b-0f84-e8fe-701b9f5f22f8
 title: C/C++初步了解
 date: 2020-12-05 23:01:25
-tags: C/C++
+tags: 'C/C++'
 categories: C语言
 ---
 
